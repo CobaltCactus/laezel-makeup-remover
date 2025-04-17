@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="MetaData">
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="a66803ae-e943-93ee-7ed7-eef756e13614"/>
             <attribute id="Name" type="LSString" value="laezel_makeup_remover"/>
             <attribute id="UUID" type="LSString" value="0c7c4cd4-803b-7d22-a490-c83745bdc932"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
             <children>
                 <node id="Categories"/>
             </children>
